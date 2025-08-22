@@ -31,6 +31,7 @@ import java.text.*;
 import javafx.geometry.Pos;
 
 import org.msscf.msscf.v2_13.cflib.CFLib.*;
+import org.msscf.msscf.v2_13.cflib.CFLib.xml.*;
 
 public class CFUInt64Editor
 extends CFFormattedTextField

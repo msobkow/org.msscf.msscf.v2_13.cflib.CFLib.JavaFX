@@ -29,6 +29,7 @@ package org.msscf.msscf.v2_13.cflib.CFLib.JavaFX;
 import javafx.geometry.Pos;
 
 import org.msscf.msscf.v2_13.cflib.CFLib.*;
+import org.msscf.msscf.v2_13.cflib.CFLib.xml.*;
 
 public class CFNmTokenEditor
 extends CFTextField

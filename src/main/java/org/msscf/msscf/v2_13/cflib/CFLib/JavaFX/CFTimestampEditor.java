@@ -30,6 +30,7 @@ import java.util.*;
 import javafx.geometry.Pos;
 
 import org.msscf.msscf.v2_13.cflib.CFLib.*;
+import org.msscf.msscf.v2_13.cflib.CFLib.xml.*;
 
 public class CFTimestampEditor
 extends CFTextField
