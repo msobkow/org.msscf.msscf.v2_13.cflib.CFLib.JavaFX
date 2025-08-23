@@ -31,6 +31,7 @@ import java.util.UUID;
 import javafx.scene.control.TableCell;
 
 import org.msscf.msscf.v2_13.cflib.CFLib.*;
+import org.msscf.msscf.v2_13.cflib.CFLib.xml.*;
 
 public class CFTZDateTableCell<T>
 extends TableCell<T,Calendar>
